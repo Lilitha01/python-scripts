@@ -1,0 +1,11 @@
+2026-05-28 09:01:00 INFO  Application started
+2026-05-28 09:01:05 INFO  Connected to database
+2026-05-28 09:01:10 WARN  Connection pool nearing limit
+2026-05-28 09:01:15 ERROR Failed to process message: timeout
+2026-05-28 09:01:20 INFO  Retrying...
+2026-05-28 09:01:25 ERROR Failed to process message: timeout
+2026-05-28 09:01:30 ERROR Failed to connect to cache: connection refused
+2026-05-28 09:01:35 WARN  High memory usage detected
+2026-05-28 09:01:40 INFO  Processed 100 messages
+2026-05-28 09:01:45 ERROR Failed to process message: timeout
+2026-05-28 09:01:50 INFO  Shutting down
