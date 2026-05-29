@@ -5,6 +5,7 @@ charset-normalizer==3.4.7
 idna==3.16
 jmespath==1.1.0
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.2
 requests==2.34.2
 s3transfer==0.17.1
 six==1.17.0
